@@ -8,7 +8,7 @@
 ## Links
 - Github: https://github.com/PavlovichDmitry
 ## About me
-My name is Dmitry I am 37 years old. I am an individual entrepreneur. I decided to try something new in my life and began to immerse myself in programming. I started in web development because... It is currently the most widely used programming language.
+My name is Dmitry. I am 37 years old. I am an individual entrepreneur. I decided to try something new in my life and began to immerse myself in programming. I started in web development because... It is currently the most widely used programming language.
 ## Education
 - Belarusian State University of Physical Culture
     - Specialization "athletics coach"
